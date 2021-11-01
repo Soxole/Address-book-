@@ -30,7 +30,7 @@ QHash<int, QByteArray> ContactsModel::roleNames() const
     roles[ContactRoles::PhoneNumberRole] = "phoneNumber";
 
 //    for(int i = 0; i < roles.size(); ++i)
-//        qDebug() << (roles.begin() + i).key() << " " << (roles.begin() + i).value() << '\n';
+//        qDebug() << (roles.begin() + i).key() << " " << (roles.begin() + i).value();
 
     return roles;
 }
