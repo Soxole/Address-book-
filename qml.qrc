@@ -16,6 +16,5 @@
         <file>qml/ResourceProvider/qmldir</file>
         <file>qml/ResourceProvider/Resources.qml</file>
         <file>qml/resources/211605_contact_icon.svg</file>
-        <file>qml/resources/iconPerson.svg</file>
     </qresource>
 </RCC>
