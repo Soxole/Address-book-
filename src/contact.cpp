@@ -1,4 +1,4 @@
-#include "contact.h"
+#include "includes/contact.h"
 
 Contact::Contact(QString firstName, QString surname, QString phone)
     : m_firstName(std::move(firstName)),

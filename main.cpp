@@ -1,7 +1,7 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
-#include "contactsmodel.h"
+#include "includes/contactsmodel.h"
 
 int main(int argc, char *argv[])
 {
